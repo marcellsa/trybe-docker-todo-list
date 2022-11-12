@@ -1,1 +1,1 @@
-Escreva neste arquivo o comando do CLI (Interface de Linha de Comando) do Docker que resolve o requisito
+docker container create -it --name 01container alpine:3.12
