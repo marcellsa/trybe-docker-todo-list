@@ -25,7 +25,6 @@
 
 ```bash
 npm install
-cd docker
 ``` 
 
 ## 🚀 Como executar o projeto
