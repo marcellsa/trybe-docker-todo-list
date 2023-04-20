@@ -1,6 +1,6 @@
 <h1>Docker Todo List</h1>
 
-> Status do Projeto: :heavy_check_mark: :warning: (concluído)
+> Status do Projeto: :heavy_check_mark: concluído
 
 ## 💻 Objetivo do projeto 
 
@@ -46,7 +46,7 @@ Navegue até o diretório **docker** do projeto.
   
   </br>
   
-  Instale as depedências do projeto na pasta back-end, fornt-end e tests rodando o comando abaixo em cada pasta
+  Instale as depedências do projeto na pasta back-end, front-end e tests rodando o comando abaixo em cada pasta
 
         npm install
   
